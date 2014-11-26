@@ -1,4 +1,4 @@
 language: ruby
 rvm:
-- "2.0.0p594"
-gemfile: Gemfile.ci
+  - "2.0.0p594"
+gemfile: Gemfile
